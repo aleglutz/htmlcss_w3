@@ -1,6 +1,6 @@
-stack: [VS Code] + [Firefox] + [iTerm2] + [micro-editor]
+Here I'm going through `handmade_web_workshop` and w3schools `HTML+CSS course` on public to book my place in a webspace.
 
-directory:
+Project structure:
 ```
 	htmlcss-w3/
 		index.html
@@ -8,7 +8,6 @@ directory:
 			styles.css
 		imgs/
 ```
-task – create with [bash]
 
 **Note:** 
 - `linear-gradient` creates a smooth color blend, 
@@ -17,15 +16,12 @@ task – create with [bash]
 
 ## Fonts
 
-Option (⌥) key + Finder’s Go: `Library > Fonts
-
 Embed code in the `<head>` of your html
 ```
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap" rel="stylesheet">
 ```
-
 Syne Mono: CSS class
 ```
 .syne-mono-regular {
