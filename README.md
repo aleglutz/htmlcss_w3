@@ -1,6 +1,7 @@
+# Building CLI-izdat Website
 Here I'm going through `handmade_web_workshop` and w3schools `HTML+CSS course` on public to book my place in a webspace.
 
-Project structure:
+**Project structure:**
 ```
 	htmlcss-w3/
 		index.html
@@ -9,10 +10,10 @@ Project structure:
 		imgs/
 ```
 
-**Note:** 
+**Notes:** 
 - `linear-gradient` creates a smooth color blend, 
 - `box-shadow` adds a soft shadow under each section,
-- `<a href="https://memosynth.net/" target="_blank" class="">memosynth.net</a>
+- 
 
 ## Fonts
 
